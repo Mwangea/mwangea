@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musa Mwangea</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate SoftWare Engineer.</h3>
 <img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 <h3 align="left">About me:</h3>
 I am a software devoloper. I have a strong background in object-oriented programming and have worked on a variety of projects, including web applications, mobile apps, and desktop applications. I am proficient in HTML, CSS, JavaScript, React, Node.js, and Express.js. I am also a quick learner and am always eager to take on new challenges and also a team player and enjoy working with others to create innovative solutions.

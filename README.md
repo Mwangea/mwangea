@@ -1,26 +1,93 @@
-<h1 align="center">Hi 👋, I'm Musa Mwangea</h1>
-<h3 align="center">A passionate Software Engineer.</h3>
-<img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+<div align="center">
 
-<h3 align="left">About me:</h3>
-I am a software devoloper. I have a strong background in object-oriented programming and have worked on a variety of projects, including web applications, mobile apps, and desktop applications. I am proficient in HTML, CSS, JavaScript, React, Node.js, and Express.js. I am also a quick learner and am always eager to take on new challenges and also a team player and enjoy working with others to create innovative solutions.
-<p align="left"> <a href="https://twitter.com/_mwangea" target="blank"><img src="https://img.shields.io/twitter/follow/_mwangea?logo=twitter&style=for-the-badge" alt="_mwangea" /></a> </p>
+# 👨‍💻 Musa Mwangea
 
-- 🌱 I’m currently learning **Ruby and Flutter**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF69B4&width=435&lines=Senior+Software+Engineer;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
 
-- 👨‍💻 All of my projects are available at [https://mwangea.netlify.app](https://mwangea.netlify.app)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-FF69B4?style=for-the-badge&logoColor=white&logo=browser)](https://mwangea.netlify.app)
+[![Email](https://custom-icon-badges.demolab.com/badge/-Email-00CED1?style=for-the-badge&logoColor=white&logo=mail)](mailto:mwangeamusa@gmail.com)
+[![Twitter](https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logoColor=white&logo=twitter)](https://twitter.com/_mwangea)
 
-- 💬 Ask me about **React,Javascript or Angular**
+<img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="300" />
 
-- 📫 How to reach me **mwangeamusa@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_mwangea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mwangea" height="30" width="40" /></a>
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Experience-5%20Years-FF69B4?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack-00CED1?style=for-the-badge&labelColor=black" />
+<img src="https://img.shields.io/badge/Location-Remote-FFA500?style=for-the-badge&labelColor=black" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+##  Tech Stack & Tools 
 
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwangea&" alt="mwangea" /></p>
+### 💫 Frontend Magic
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🎨 Design & Styling
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### 🚀 Backend Powers
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwangea&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwangea&theme=radical&hide_border=true&layout=compact&langs_count=6" />
+</div>
+
+## 🏆 GitHub Profile Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mwangea&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</div>
+
+## 🌟 Current Focus
+
+<div align="center">
+
+```javascript
+const currentFocus = {
+    '🎯 Learning': ['Ruby', 'Flutter'],
+    '🚀 Building': ['Scalable Web Apps', 'Mobile Solutions'],
+    '📚 Exploring': ['System Design', 'Cloud Architecture'],
+    '🤝 Open to': ['Collaboration', 'Mentorship', 'New Opportunities']
+};
+```
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mwangea&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+###  Let's Connect & Build Something Amazing!
+
+<a href="mailto:mwangeamusa@gmail.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mwangea.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00CED1?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://twitter.com/_mwangea"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mwangea&color=FF69B4&style=for-the-badge)
+
+</div>

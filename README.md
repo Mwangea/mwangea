@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer specializing in
 
 ## 🌐 Online Presence
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300CED1?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://mwangea.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300CED1?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://musamwangea.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwangeamusa@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_mwangea)
 
